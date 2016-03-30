@@ -1,0 +1,6 @@
+c:\users\lauren\documents\visual studio 2015\Projects\PlayMovieQuotes\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.exe.config
+c:\users\lauren\documents\visual studio 2015\Projects\PlayMovieQuotes\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.exe
+c:\users\lauren\documents\visual studio 2015\Projects\PlayMovieQuotes\PlayMovieQuotes\bin\Debug\PlayMovieQuotes.pdb
+c:\users\lauren\documents\visual studio 2015\Projects\PlayMovieQuotes\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.csprojResolveAssemblyReference.cache
+c:\users\lauren\documents\visual studio 2015\Projects\PlayMovieQuotes\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.exe
+c:\users\lauren\documents\visual studio 2015\Projects\PlayMovieQuotes\PlayMovieQuotes\obj\Debug\PlayMovieQuotes.pdb
